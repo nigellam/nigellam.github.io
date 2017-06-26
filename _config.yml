@@ -9,7 +9,7 @@
 title: NCL Ventures
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Critical financial reports for informed investing.
+  Financial datapoints for informed investing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
